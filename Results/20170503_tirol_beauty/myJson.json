@@ -1,0 +1,1008 @@
+{
+  "24": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Sieglinde Greil Spirk", 
+    "Revenue": "NA", 
+    "URL": "http://www.beautyundstyle.at", 
+    "Employees": "NA", 
+    "Phone": "tel:0526263190", 
+    "Location": "Rietz", 
+    "FirmenbuchURL": "http://www.firmenabc.at/sieglinde-greil-spirk_CsVz", 
+    "Description": "Betriebsgegenstand: Kosmetiker Erbringung von sonstigen Dienstleistungen Fu\u00dfpfleger Schlankheits-, Massage- und Fitnesszentren", 
+    "Email": "NA", 
+    "Founding date": "1996-09-19"
+  }, 
+  "25": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Cemile Akar", 
+    "Revenue": "NA", 
+    "URL": "http://www.cemi-beautysalon.at", 
+    "Employees": "5", 
+    "Phone": "tel:0523432130", 
+    "Location": "G\u00f6tzens", 
+    "FirmenbuchURL": "http://www.firmenabc.at/cemile-akar_JVYj", 
+    "Description": "Damen- und Herrenfriseursalon, sowie Kosmetiksalon - freie Bezeichnung \"Beauty Salon Cemi\"", 
+    "Email": "NA", 
+    "Founding date": "1999-01-27"
+  }, 
+  "26": {
+    "Associations": {
+      "Employees": {
+        "Gesch\u00e4ftsf\u00fchrer": {
+          "Herrn  Junker Christian": {
+            "Name": "Herrn  Junker Christian"
+          }, 
+          "Frau  Junker Silvia": {
+            "Name": "Frau  Junker Silvia"
+          }
+        }, 
+        "Vorstand": {}, 
+        "Aufsichtsrat": {}
+      }, 
+      "Investments": "NA", 
+      "Stakeholders": {
+        "Persons": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {
+            "Herrn  Junker Christian": {
+              "Name": "Herrn  Junker Christian", 
+              "Anteil": "33,33\\%"
+            }, 
+            "Frau  Junker Silvia": {
+              "Name": "Frau  Junker Silvia", 
+              "Anteil": "33,33\\%"
+            }, 
+            "Frau  Junker Anneliese": {
+              "Name": "Frau  Junker Anneliese", 
+              "Anteil": "33,33\\%"
+            }
+          }
+        }, 
+        "Companies": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }
+      }
+    }, 
+    "Name": "Salon Silvia Sun & Beauty GmbH", 
+    "Revenue": "NA", 
+    "URL": "http://www.salonsilvia.at", 
+    "Employees": "NA", 
+    "Phone": "tel:0522454754", 
+    "Location": "Wattens", 
+    "FirmenbuchURL": "http://www.firmenabc.at/salon-silvia-sun-beauty-gmbh_KIrr", 
+    "Description": "Betrieb eines Sonnenstudios, Massagepraxis.", 
+    "Email": "NA", 
+    "Founding date": "1999-03-15"
+  }, 
+  "27": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Johanna Kratzer", 
+    "Revenue": "0.0", 
+    "URL": "http://johannakratzer.wordpress.com", 
+    "Employees": "1", 
+    "Phone": "tel:06769044555", 
+    "Location": "Wattens", 
+    "FirmenbuchURL": "http://www.firmenabc.at/johanna-kratzer_FvOP", 
+    "Description": "Kosmetikstudio, Fu\u00dfpflege - freie Bezeichnung \"Beauty Time\".", 
+    "Email": "beautytime@gmx.at", 
+    "Founding date": "2009-08-01"
+  }, 
+  "20": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Friseursalon Beauty Hair by Jacqueline Kriner", 
+    "Revenue": "NA", 
+    "URL": "NA", 
+    "Employees": "NA", 
+    "Phone": "tel:0521464 90", 
+    "Location": "Leutasch", 
+    "FirmenbuchURL": "http://www.firmenabc.at/friseursalon-beauty-hair-by-jacqueline-kriner_rYc", 
+    "Description": "NA", 
+    "Email": "beauty-hair@aon.at", 
+    "Founding date": "NA"
+  }, 
+  "21": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Sonja Schubbach", 
+    "Revenue": "0.0", 
+    "URL": "http://www.beautyzone.co.at", 
+    "Employees": "1", 
+    "Phone": "NA", 
+    "Location": "Rietz", 
+    "FirmenbuchURL": "http://www.firmenabc.at/sonja-schubbach_JBdV", 
+    "Description": "Kosmetiksalon - freie Bezeichnung \"Beautyzone\".", 
+    "Email": "info@beautyzone.co.at", 
+    "Founding date": "2009-12-10"
+  }, 
+  "22": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Astrid Schwab", 
+    "Revenue": "NA", 
+    "URL": "http://astrid-beautysalon.at", 
+    "Employees": "NA", 
+    "Phone": "tel:0512580518", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/astrid-schwab_CnNV", 
+    "Description": "Betriebsgegenstand: Kosmetiker Fu\u00dfpfleger Erbringung von sonstigen Dienstleistungen Schlankheits-, Massage- und Fitnesszentren", 
+    "Email": "astridbeautysalon@aon.at", 
+    "Founding date": "2000-02-25"
+  }, 
+  "23": {
+    "Associations": {
+      "Employees": {
+        "Gesch\u00e4ftsf\u00fchrer": {
+          "Herrn  Wagner Manfred": {
+            "Name": "Herrn  Wagner Manfred"
+          }, 
+          "Frau  B\\xf6rner Katrin": {
+            "Name": "Frau  B\\xf6rner Katrin"
+          }
+        }, 
+        "Vorstand": {}, 
+        "Aufsichtsrat": {}
+      }, 
+      "Investments": "NA", 
+      "Stakeholders": {
+        "Persons": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }, 
+        "Companies": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }
+      }
+    }, 
+    "Name": "LR Health & Beauty Systems GmbH", 
+    "Revenue": "463000000.0", 
+    "URL": "http://www.lrworld.com", 
+    "Employees": "12", 
+    "Phone": "tel:05125775750", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/lr-health-beauty-systems-gmbh_aFj", 
+    "Description": "Direktvertrieb von Parfumeriewaren und Nahrungserg\u00e4nzungsmitteln. Vertrieben werden ausschlie\u00dflich die Erzeugnisse der Schwesterfirma LR Health & Beauty Systems GmbH in D-59227 Ahlen, Kruppsstr. 55.", 
+    "Email": "info@lrworld.com", 
+    "Founding date": "1994-04-20"
+  }, 
+  "28": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "art of nails and beauty Menghini und Obex OG", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/art-of-nails-and-beauty-menghini-und-obex-og_KpCk", 
+    "Employees": "NA", 
+    "Phone": "NA", 
+    "Location": "Birgitz", 
+    "FirmenbuchURL": "http://www.firmenabc.at/art-of-nails-and-beauty-menghini-und-obex-og_KpfG", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "29": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Wellness & Beauty Pavillon Michaela Birk", 
+    "Revenue": "0.0", 
+    "URL": "NA", 
+    "Employees": "6", 
+    "Phone": "tel:06642345756", 
+    "Location": "Mils", 
+    "FirmenbuchURL": "http://www.firmenabc.at/wellness-beauty-pavillon-michaela-birk_tNH", 
+    "Description": "Kosmetiksalon, Fu\u00dfpflege, Fris\u00f6r und Naildesign. weitere Betriebsst\u00e4tte: - 6060 Hall, Wallpachgasse 5 \"Cafe Roseneck\" mit ca. 60 Sitzpl\u00e4tzen", 
+    "Email": "NA", 
+    "Founding date": "2003-11-17"
+  }, 
+  "1": {
+    "Associations": {
+      "Employees": {
+        "Gesch\u00e4ftsf\u00fchrer": {
+          "Herrn  Zellner Ernst": {
+            "Functions": {}, 
+            "Link": "http://www.firmenabc.at/person/zellner-ernst_jhyadv", 
+            "Name": "Herrn  Zellner Ernst", 
+            "Investments": {
+              "ZELLNER Personal L\u00f6sungen GmbH": {
+                "Associations": {
+                  "Employees": {
+                    "Gesch\u00e4ftsf\u00fchrer": {
+                      "Herrn  Zellner Ernst": {
+                        "Functions": {
+                          "Luce Esthetics VIE GmbH": {
+                            "Link": "http://www.firmenabc.at/luce-esthetics-vie-gmbh_MqNR", 
+                            "Name": "Luce Esthetics VIE GmbH"
+                          }
+                        }, 
+                        "Link": "http://www.firmenabc.at/person/zellner-ernst_jhyadv", 
+                        "Name": "Herrn  Zellner Ernst", 
+                        "Investments": {}
+                      }
+                    }, 
+                    "Vorstand": {}, 
+                    "Aufsichtsrat": {}
+                  }, 
+                  "Investments": {
+                    "Gesellschafter": {
+                      "Helibau Planung-Bau und Projekt GmbH": {
+                        "Link": "http://www.firmenabc.at/helibau-planung-bau-und-projekt-gmbh_LQkr", 
+                        "Name": "Helibau Planung-Bau und Projekt GmbH", 
+                        "Anteil": "50,00\\%"
+                      }, 
+                      "Luce Esthetics VIE GmbH": {
+                        "Link": "http://www.firmenabc.at/luce-esthetics-vie-gmbh_MqNR", 
+                        "Name": "Luce Esthetics VIE GmbH", 
+                        "Anteil": "100,00\\%"
+                      }, 
+                      "Me Esthetic GmbH": {
+                        "Link": "http://www.firmenabc.at/me-esthetic-gmbh_MMQU", 
+                        "Name": "Me Esthetic GmbH", 
+                        "Anteil": "100,00\\%"
+                      }
+                    }, 
+                    "Aktion\u00e4r": {}
+                  }, 
+                  "Stakeholders": {
+                    "Persons": {
+                      "Aktion\u00e4r": {}, 
+                      "Gesellschafter": {
+                        "Herrn  Zellner Ernst": {
+                          "Functions": {}, 
+                          "Anteil": "100,00\\%", 
+                          "Link": "http://www.firmenabc.at/person/zellner-ernst_jhyadv", 
+                          "Name": "Herrn  Zellner Ernst", 
+                          "Investments": {}
+                        }
+                      }
+                    }, 
+                    "Companies": {
+                      "Aktion\u00e4r": {}, 
+                      "Gesellschafter": {}
+                    }
+                  }
+                }, 
+                "Name": "ZELLNER Personal L\u00f6sungen GmbH", 
+                "Revenue": "1300000000.0", 
+                "URL": "http://www.personal-zellner.at", 
+                "Employees": "310", 
+                "Phone": "tel:015332200", 
+                "Link": "http://www.firmenabc.at/zellner-personal-loesungen-gmbh_HEtW", 
+                "Founding date": "2011-09-28", 
+                "Email": "office@personal-zellner.at", 
+                "Description": "Arbeitskr\u00e4fte\u00fcberlassung und -vermittlung Fuhrpark: 4 PKW"
+              }
+            }
+          }
+        }, 
+        "Vorstand": {}, 
+        "Aufsichtsrat": {}
+      }, 
+      "Investments": "NA", 
+      "Stakeholders": {
+        "Persons": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }, 
+        "Companies": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {
+            "Bad data. Please check manually": {
+              "Link": "http://www.firmenabc.at/zellner-personal-loesungen-gmbh_HEtW", 
+              "Name": "Bad data. Please check manually", 
+              "Anteil": "100,00\\%"
+            }
+          }
+        }
+      }
+    }, 
+    "Name": "Me Esthetic GmbH", 
+    "Revenue": "0.0", 
+    "URL": "http://beautydesigner.at", 
+    "Employees": "1", 
+    "Phone": "tel:0512209037", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/me-esthetic-gmbh_MMQU", 
+    "Description": "Handel, Betrieb eines Kosmetikstudios", 
+    "Email": "info@beautydesigner.at", 
+    "Founding date": "2015-05-29"
+  }, 
+  "0": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Kathrin Stoll", 
+    "Revenue": "0.0", 
+    "URL": "http://www.beautysecret.at", 
+    "Employees": "4", 
+    "Phone": "tel:069910424242", 
+    "Location": "Mils", 
+    "FirmenbuchURL": "http://www.firmenabc.at/kathrin-stoll_KrlR", 
+    "Description": "Kosmetiksalon - freie Bezeichnung \"Beauty Secret Medical Cosmetic Institute\".", 
+    "Email": "kathy@beautysecret.at", 
+    "Founding date": "2010-04-01"
+  }, 
+  "3": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Beauty Hair Handelsges.m.b.H.", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/beauty-hair-handelsges-m-b-h_Evf", 
+    "Employees": "NA", 
+    "Phone": "tel:0512362426", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/beauty-hair-handelsges-m-b-h_FMlL", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "2": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "She\u00b4s Beauty Hautz Eva", 
+    "Revenue": "NA", 
+    "URL": "http://www.she-is-beauty.at", 
+    "Employees": "NA", 
+    "Phone": "tel:06503033113", 
+    "Location": "Gerlos", 
+    "FirmenbuchURL": "http://www.firmenabc.at/she-s-beauty-hautz-eva_Beek", 
+    "Description": "NA", 
+    "Email": "eva@she-is-beauty.at", 
+    "Founding date": "NA"
+  }, 
+  "5": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Marion Kirchmair", 
+    "Revenue": "NA", 
+    "URL": "http://www.beautyfarm-schwaz.at", 
+    "Employees": "NA", 
+    "Phone": "tel:0524264024", 
+    "Location": "Schwaz", 
+    "FirmenbuchURL": "http://www.firmenabc.at/marion-kirchmair_CofK", 
+    "Description": "Kosmetiksalon, F\u00fcsse-, H\u00e4nde-, N\u00e4gel-, Gesichts- und K\u00f6rperbehandlungen, sowie Harzen und Shiatsu - freie Bezeichnung \"Beautyfarm Schwaz\".", 
+    "Email": "marion.kirchmair@gmx.at", 
+    "Founding date": "2004-08-01"
+  }, 
+  "4": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": {
+        "Persons": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {
+            "Frau  Menghini Katrin": {
+              "Name": "Frau  Menghini Katrin"
+            }, 
+            "Frau  Obex Stefanie": {
+              "Name": "Frau  Obex Stefanie"
+            }
+          }
+        }, 
+        "Companies": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }
+      }
+    }, 
+    "Name": "art of nails and beauty Menghini und Obex OG", 
+    "Revenue": "NA", 
+    "URL": "NA", 
+    "Employees": "NA", 
+    "Phone": "NA", 
+    "Location": "Birgitz", 
+    "FirmenbuchURL": "http://www.firmenabc.at/art-of-nails-and-beauty-menghini-und-obex-og_KpCk", 
+    "Description": "Betrieb eines Kosmetikstudios", 
+    "Email": "NA", 
+    "Founding date": "2007-12-13"
+  }, 
+  "7": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Gertraud H\u00f6llwarth", 
+    "Revenue": "NA", 
+    "URL": "http://www.spa-and-beauty.at", 
+    "Employees": "NA", 
+    "Phone": "tel:05288622452", 
+    "Location": "F\u00fcgen", 
+    "FirmenbuchURL": "http://www.firmenabc.at/gertraud-hoellwarth_Cpve", 
+    "Description": "Kosmetiker Einzelhandel mit Wohnm\u00f6beln Erbringung von sonstigen Dienstleistungen Fris\u00f6re Fu\u00dfpfleger Schlankheits-, Massage- und Fitnesszentren", 
+    "Email": "NA", 
+    "Founding date": "2005-07-01"
+  }, 
+  "6": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "CosTrade Beauty Consulting GmbH", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/costrade-beauty-consulting-gmbh_Bjlu", 
+    "Employees": "NA", 
+    "Phone": "NA", 
+    "Location": "Kitzb\u00fchel", 
+    "FirmenbuchURL": "http://www.firmenabc.at/costrade-beauty-consulting-gmbh_FbXq", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "9": {
+    "Associations": {
+      "Employees": {
+        "Gesch\u00e4ftsf\u00fchrer": {
+          "Herrn  Kreilhuber Alfred": {
+            "Name": "Herrn  Kreilhuber Alfred"
+          }, 
+          "Frau  Kreilhuber Petra Prennig": {
+            "Name": "Frau  Kreilhuber Petra Prennig"
+          }
+        }, 
+        "Vorstand": {}, 
+        "Aufsichtsrat": {}
+      }, 
+      "Investments": "NA", 
+      "Stakeholders": {
+        "Persons": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {
+            "Herrn  Kreilhuber Alfred": {
+              "Name": "Herrn  Kreilhuber Alfred", 
+              "Anteil": "65,00\\%"
+            }, 
+            "Herrn  Kreilhuber Arnold": {
+              "Name": "Herrn  Kreilhuber Arnold", 
+              "Anteil": "10,00\\%"
+            }, 
+            "Frau  Kreilhuber Petra Prennig": {
+              "Name": "Frau  Kreilhuber Petra Prennig", 
+              "Anteil": "25,00\\%"
+            }
+          }
+        }, 
+        "Companies": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }
+      }
+    }, 
+    "Name": "Beauty Med Handels-GmbH", 
+    "Revenue": "220000000.0", 
+    "URL": "http://www.beautymed.at", 
+    "Employees": "13", 
+    "Phone": "tel:05125795950", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/beauty-med-handels-gmbh_Evh", 
+    "Description": "Vertrieb von Kosmetikprodukten, angeschlossen ist ein Kosmetiksalon. Die Firmengr\u00fcndung erfolgte durch Petra Kreilhuber.", 
+    "Email": "info@beautymed.at", 
+    "Founding date": "1997-05-07"
+  }, 
+  "8": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Beauty Image Kosmetikstudio", 
+    "Revenue": "NA", 
+    "URL": "http://www.beauty-image.at", 
+    "Employees": "NA", 
+    "Phone": "tel:066439 35 222", 
+    "Location": "Hall in Tirol", 
+    "FirmenbuchURL": "http://www.firmenabc.at/beauty-image-kosmetikstudio_Idol", 
+    "Description": "NA", 
+    "Email": "info@beauty-image.at", 
+    "Founding date": "NA"
+  }, 
+  "11": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Friseursalon HAIRZST\u00dcCK", 
+    "Revenue": "NA", 
+    "URL": "http://www.friseursalonhairzstueck.at", 
+    "Employees": "NA", 
+    "Phone": "tel:0533420 660", 
+    "Location": "Westendorf", 
+    "FirmenbuchURL": "http://www.firmenabc.at/friseursalon-hairzstueck_KTAv", 
+    "Description": "NA", 
+    "Email": "theresa.zass@gmail.com", 
+    "Founding date": "NA"
+  }, 
+  "10": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Styling Salon Wilder Kaiser Melanie Lanthaler", 
+    "Revenue": "NA", 
+    "URL": "http://www.stylingsalon-wilderkaiser.at", 
+    "Employees": "NA", 
+    "Phone": "tel:0535826 18", 
+    "Location": "Going am Wilden Kaiser", 
+    "FirmenbuchURL": "http://www.firmenabc.at/styling-salon-wilder-kaiser-melanie-lanthaler_MfXT", 
+    "Description": "NA", 
+    "Email": "lanthaler.melanie@gmx.at", 
+    "Founding date": "NA"
+  }, 
+  "13": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Violet Beauty Carina Schwaiger", 
+    "Revenue": "NA", 
+    "URL": "http://www.violet-beauty.at", 
+    "Employees": "NA", 
+    "Phone": "tel:0535844 522", 
+    "Location": "Ellmau", 
+    "FirmenbuchURL": "http://www.firmenabc.at/violet-beauty-carina-schwaiger_GXDw", 
+    "Description": "NA", 
+    "Email": "violet-beauty@speed.at", 
+    "Founding date": "NA"
+  }, 
+  "12": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Vital Turm Schloss LebenbergTheresia Thiersch\u00e4dl", 
+    "Revenue": "NA", 
+    "URL": "http://www.vital-turm.at", 
+    "Employees": "NA", 
+    "Phone": "tel:0664254 20 68", 
+    "Location": "Kitzb\u00fchel", 
+    "FirmenbuchURL": "http://www.firmenabc.at/vital-turm-schloss-lebenberg-theresia-thierschaedl_EkSD", 
+    "Description": "Betriebsgegenstand: Kosmetiker Fu\u00dfpfleger Schlankheits-, Massage- und Fitnesszentren Erbringung von sonstigen Dienstleistungen", 
+    "Email": "office@vital-turm.at", 
+    "Founding date": "2007-12-01"
+  }, 
+  "15": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Beauty-Salon Lydia Inh. Lydia Neurauter-Schwarz", 
+    "Revenue": "NA", 
+    "URL": "http://www.beauty-salon-lydia.at", 
+    "Employees": "NA", 
+    "Phone": "tel:0526688 240", 
+    "Location": "\u00d6tztal-Bahnhof", 
+    "FirmenbuchURL": "http://www.firmenabc.at/beauty-salon-lydia-inh-lydia-neurauter-schwarz_Jrye", 
+    "Description": "NA", 
+    "Email": "beauty.salon.lydia@utanet.at", 
+    "Founding date": "NA"
+  }, 
+  "14": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Swan Beauty Center Kosmetiksalon", 
+    "Revenue": "0.0", 
+    "URL": "http://www.swanbeautyw\u00f6rgl.at", 
+    "Employees": "1", 
+    "Phone": "tel:05332707 44", 
+    "Location": "W\u00f6rgl", 
+    "FirmenbuchURL": "http://www.firmenabc.at/swan-beauty-center-kosmetiksalon_MoTU", 
+    "Description": "Kosmetik (Sch\u00f6nheitspflege) gem\u00e4\u00df \u00a7 94 Z 42 GewO 1994, eingeschr\u00e4nkt auf Enthaarungen mittels IPL.", 
+    "Email": "swanbeauty8587@hotmail.com", 
+    "Founding date": "2014-03-04"
+  }, 
+  "17": {
+    "Associations": {
+      "Employees": {
+        "Gesch\u00e4ftsf\u00fchrer": {
+          "Herrn  Kohl Roland": {
+            "Functions": {}, 
+            "Link": "http://www.firmenabc.at/person/kohl-roland_efohrg", 
+            "Name": "Herrn  Kohl Roland", 
+            "Investments": {
+              "CURA-Marketing GmbH": {
+                "Associations": {
+                  "Employees": {
+                    "Gesch\u00e4ftsf\u00fchrer": {
+                      "Herrn  Kohl Roland": {
+                        "Functions": {}, 
+                        "Link": "http://www.firmenabc.at/person/kohl-roland_efohrg", 
+                        "Name": "Herrn  Kohl Roland", 
+                        "Investments": {
+                          "Gr\u00fcntech GmbH": {
+                            "Link": "http://www.firmenabc.at/gruentech-gmbh_GmAr", 
+                            "Name": "Gr\u00fcntech GmbH"
+                          }
+                        }
+                      }
+                    }, 
+                    "Vorstand": {}, 
+                    "Aufsichtsrat": {}
+                  }, 
+                  "Investments": {
+                    "Gesellschafter": {
+                      "CURA-Beauty GmbH": {
+                        "Link": "http://www.firmenabc.at/cura-beauty-gmbh_MjNM", 
+                        "Name": "CURA-Beauty GmbH", 
+                        "Anteil": "55,00\\%"
+                      }
+                    }, 
+                    "Aktion\u00e4r": {}
+                  }, 
+                  "Stakeholders": {
+                    "Persons": {
+                      "Aktion\u00e4r": {}, 
+                      "Gesellschafter": {
+                        "Herrn  R\\xf6sti Marc": {
+                          "Name": "Herrn  R\\xf6sti Marc", 
+                          "Anteil": "5,98\\%"
+                        }, 
+                        "Herrn  Kohl Roland": {
+                          "Functions": {}, 
+                          "Anteil": "25,04\\%", 
+                          "Link": "http://www.firmenabc.at/person/kohl-roland_efohrg", 
+                          "Name": "Herrn  Kohl Roland", 
+                          "Investments": {}
+                        }, 
+                        "Herrn  Chen Terence": {
+                          "Name": "Herrn  Chen Terence", 
+                          "Anteil": "6,89\\%"
+                        }, 
+                        "Herrn Mag. Kaiser Gerhard": {
+                          "Name": "Herrn Mag. Kaiser Gerhard", 
+                          "Anteil": "8,97\\%"
+                        }, 
+                        "Frau Mag. Tschopfer-W\\xf6rz Doris": {
+                          "Name": "Frau Mag. Tschopfer-W\\xf6rz Doris", 
+                          "Anteil": "6,26\\%"
+                        }
+                      }
+                    }, 
+                    "Companies": {
+                      "Aktion\u00e4r": {}, 
+                      "Gesellschafter": {}
+                    }
+                  }
+                }, 
+                "Name": "CURA-Marketing GmbH", 
+                "Revenue": "3000000000.0", 
+                "URL": "http://www.judith-williams.de", 
+                "Employees": "73", 
+                "Phone": "tel:0512262676", 
+                "Link": "http://www.firmenabc.at/cura-marketing-gmbh_HaM", 
+                "Founding date": "1999-01-08", 
+                "Email": "office@cura.co.at", 
+                "Description": "Handel mit Kosmetikprodukten und Parfumeriewaren. Fuhrpark: 7 Pkw, 2 Lkw"
+              }
+            }
+          }
+        }, 
+        "Vorstand": {}, 
+        "Aufsichtsrat": {}
+      }, 
+      "Investments": "NA", 
+      "Stakeholders": {
+        "Persons": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }, 
+        "Companies": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {
+            "Bad data. Please check manually": {
+              "Link": "http://www.firmenabc.at/cura-marketing-gmbh_HaM", 
+              "Name": "Bad data. Please check manually", 
+              "Anteil": "55,00\\%"
+            }
+          }
+        }
+      }
+    }, 
+    "Name": "CURA-Beauty GmbH", 
+    "Revenue": "0.0", 
+    "URL": "NA", 
+    "Employees": "1", 
+    "Phone": "tel:0512262676", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/cura-beauty-gmbh_MjNM", 
+    "Description": "Handel mit Waren aller Art; davon auch insbesondere umfasst der Handel mit Nahrungserg\u00e4nzungsmitteln, der Handel mit Medizin- produkten und der Handel mit Kosmetika.", 
+    "Email": "office@cura.co.at", 
+    "Founding date": "2015-08-28"
+  }, 
+  "16": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Katharine Randolf", 
+    "Revenue": "NA", 
+    "URL": "http://lipstickjungle.at", 
+    "Employees": "NA", 
+    "Phone": "NA", 
+    "Location": "M\u00f6tz", 
+    "FirmenbuchURL": "http://www.firmenabc.at/katharine-randolf_JCjW", 
+    "Description": "NA", 
+    "Email": "beauty@lipstickjungle.at", 
+    "Founding date": "2012-01-09"
+  }, 
+  "19": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Lydia Neurauter-Schwarz", 
+    "Revenue": "0.0", 
+    "URL": "http://www.beauty-salon-lydia.at", 
+    "Employees": "4", 
+    "Phone": "tel:0526688240", 
+    "Location": "Haiming \u00d6tztal-Bahnhof", 
+    "FirmenbuchURL": "http://www.firmenabc.at/lydia-neurauter-schwarz_CsbS", 
+    "Description": "Einzelhandel mit kosmetischen Artikeln und K\u00f6rperpflegemitteln, Fu\u00dfpfleger, Kosmetiker, Fris\u00f6r - freie Bezeichnung \"Beauty Salon Lydia\"", 
+    "Email": "neurauter-schwarz@gmx.net", 
+    "Founding date": "1986-07-01"
+  }, 
+  "18": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Petra Dittmann", 
+    "Revenue": "NA", 
+    "URL": "http://www.beautyvital-spa.com", 
+    "Employees": "1", 
+    "Phone": "NA", 
+    "Location": "St. Johann in Tirol", 
+    "FirmenbuchURL": "http://www.firmenabc.at/petra-dittmann_MjjT", 
+    "Description": "Kosmetiksalon - freie Bezeichnung \"Beautyvital\" Der Salon befindet sich im 4-Sterne \"LTI Alpenhotel Kaiserfels\" seit J\u00e4nner 2015.", 
+    "Email": "info@beautyvital-spa.com", 
+    "Founding date": "2014-12-15"
+  }, 
+  "31": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Beauty Oase Elsa", 
+    "Revenue": "NA", 
+    "URL": "http://www.beauty-westendorf.at", 
+    "Employees": "NA", 
+    "Phone": "tel:053342095", 
+    "Location": "Westendorf", 
+    "FirmenbuchURL": "http://www.firmenabc.at/beauty-oase-elsa_CrUB", 
+    "Description": "Fu\u00dfpflege, Manik\u00fcre, Solarium, Massage, Fu\u00dfreflexzonenmassage und Stone-Massage - freie Bezeichnung \"Beauty Oase Elsa\"", 
+    "Email": "info@beauty-westendorf.at", 
+    "Founding date": "2008-11-11"
+  }, 
+  "30": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Beauty Secret", 
+    "Revenue": "NA", 
+    "URL": "http://www.beautysecret.at", 
+    "Employees": "NA", 
+    "Phone": "tel:069910424242", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/beauty-secret_NWLq", 
+    "Description": "NA", 
+    "Email": "info@beautysecret.at", 
+    "Founding date": "NA"
+  }, 
+  "36": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Beauty Time Sch\u00f6nheit & Wohlf\u00fchlen Inh. Johanna Kratzer", 
+    "Revenue": "NA", 
+    "URL": "http://www.beauty-time.at", 
+    "Employees": "NA", 
+    "Phone": "tel:06769044555", 
+    "Location": "Wattens", 
+    "FirmenbuchURL": "http://www.firmenabc.at/beauty-time-schoenheit-wohlfuehlen-inh-johanna-kratzer_FEaj", 
+    "Description": "NA", 
+    "Email": "info@beauty-time.at", 
+    "Founding date": "NA"
+  }, 
+  "35": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Beauty33 e.U.", 
+    "Revenue": "0.0", 
+    "URL": "http://www.beauty33.com", 
+    "Employees": "5", 
+    "Phone": "tel:06603100333", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/beauty-e-u_JgSK", 
+    "Description": "Massage und Kosmetik, Wimpernverl\u00e4ngerung, Nageldesign, dauerhafte Haarentfernungen.", 
+    "Email": "info@beauty33.com", 
+    "Founding date": "2013-11-13"
+  }, 
+  "34": {
+    "Associations": {
+      "Employees": {
+        "Gesch\u00e4ftsf\u00fchrer": {
+          "Frau  Walser Tamara": {
+            "Name": "Frau  Walser Tamara"
+          }
+        }, 
+        "Vorstand": {}, 
+        "Aufsichtsrat": {}
+      }, 
+      "Investments": "NA", 
+      "Stakeholders": {
+        "Persons": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {
+            "Frau  Walser Tamara": {
+              "Name": "Frau  Walser Tamara", 
+              "Anteil": "70,00\\%"
+            }, 
+            "Herrn  Walser Benjamin": {
+              "Functions": {}, 
+              "Anteil": "30,00\\%", 
+              "Link": "http://www.firmenabc.at/person/walser-benjamin_efpovq", 
+              "Name": "Herrn  Walser Benjamin", 
+              "Investments": {
+                "WALSER Versicherungsmakler GmbH": {
+                  "Associations": {
+                    "Employees": {
+                      "Gesch\u00e4ftsf\u00fchrer": {
+                        "Herrn  Walser Benjamin": {
+                          "Functions": {
+                            "Benjamin Walser": {
+                              "Link": "http://www.firmenabc.at/benjamin-walser_Havd", 
+                              "Name": "Benjamin Walser"
+                            }
+                          }, 
+                          "Link": "http://www.firmenabc.at/person/walser-benjamin_efpovq", 
+                          "Name": "Herrn  Walser Benjamin", 
+                          "Investments": {}
+                        }
+                      }, 
+                      "Vorstand": {}, 
+                      "Aufsichtsrat": {}
+                    }, 
+                    "Investments": "NA", 
+                    "Stakeholders": {
+                      "Persons": {
+                        "Aktion\u00e4r": {}, 
+                        "Gesellschafter": {
+                          "Herrn  Walser Benjamin": {
+                            "Functions": {}, 
+                            "Anteil": "100,00\\%", 
+                            "Link": "http://www.firmenabc.at/person/walser-benjamin_efpovq", 
+                            "Name": "Herrn  Walser Benjamin", 
+                            "Investments": {}
+                          }
+                        }
+                      }, 
+                      "Companies": {
+                        "Aktion\u00e4r": {}, 
+                        "Gesellschafter": {}
+                      }
+                    }
+                  }, 
+                  "Name": "WALSER Versicherungsmakler GmbH", 
+                  "Revenue": "0.0", 
+                  "URL": "http://www.walser.at", 
+                  "Employees": "3", 
+                  "Phone": "tel:0541266010", 
+                  "Link": "http://www.firmenabc.at/walser-versicherungsmakler-gmbh_JtFw", 
+                  "Founding date": "2013-12-19", 
+                  "Email": "office@walser.at", 
+                  "Description": "Versicherungsmakler."
+                }
+              }
+            }
+          }
+        }, 
+        "Companies": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }
+      }
+    }, 
+    "Name": "Beautylagune Cosmetics GmbH", 
+    "Revenue": "0.0", 
+    "URL": "http://www.beautylagune.at", 
+    "Employees": "5", 
+    "Phone": "tel:0541261810", 
+    "Location": "Imst", 
+    "FirmenbuchURL": "http://www.firmenabc.at/beautylagune-cosmetics-gmbh_KOJd", 
+    "Description": "Kosmetik- und Fu\u00dfpflegegewerbe.", 
+    "Email": "office@beautylagune.at", 
+    "Founding date": "2004-05-19"
+  }, 
+  "33": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Beauty-Total Johanna Aichinger", 
+    "Revenue": "NA", 
+    "URL": "http://www.beautytotal.at", 
+    "Employees": "NA", 
+    "Phone": "tel:0535267 667", 
+    "Location": "St. Johann in Tirol", 
+    "FirmenbuchURL": "http://www.firmenabc.at/beauty-total-johanna-aichinger_uNZ", 
+    "Description": "NA", 
+    "Email": "info@beautytotal.at", 
+    "Founding date": "NA"
+  }, 
+  "32": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Crazy & Beauty TattooJager Markus", 
+    "Revenue": "NA", 
+    "URL": "NA", 
+    "Employees": "NA", 
+    "Phone": "tel:0512322062", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/crazy-beauty-tattoo-jager-markus_GrHP", 
+    "Description": "NA", 
+    "Email": "crazy.tattoo@chello.at", 
+    "Founding date": "NA"
+  }
+}

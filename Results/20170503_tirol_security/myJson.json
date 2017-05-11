@@ -1,0 +1,795 @@
+{
+  "24": {
+    "Associations": {
+      "Employees": {
+        "Gesch\u00e4ftsf\u00fchrer": {
+          "Herrn  Brandauer Sieghart": {
+            "Functions": {}, 
+            "Link": "http://www.firmenabc.at/person/brandauer-sieghart_efonid", 
+            "Name": "Herrn  Brandauer Sieghart", 
+            "Investments": {
+              "The Successwhisperer OG": {
+                "Associations": {
+                  "Employees": "NA", 
+                  "Investments": "NA", 
+                  "Stakeholders": {
+                    "Persons": {
+                      "Aktion\u00e4r": {}, 
+                      "Gesellschafter": {
+                        "Frau  Brandauer-Aschenwald Hedwig": {
+                          "Functions": {}, 
+                          "Link": "http://www.firmenabc.at/person/brandauer-aschenwald-hedwig_efonic", 
+                          "Name": "Frau  Brandauer-Aschenwald Hedwig", 
+                          "Investments": {
+                            "Aschenwald - Brandauer OG": {
+                              "Link": "http://www.firmenabc.at/aschenwald-brandauer-og_FDap", 
+                              "Name": "Aschenwald - Brandauer OG"
+                            }
+                          }
+                        }, 
+                        "Herrn  Brandauer Sieghart": {
+                          "Functions": {}, 
+                          "Link": "http://www.firmenabc.at/person/brandauer-sieghart_efonid", 
+                          "Name": "Herrn  Brandauer Sieghart", 
+                          "Investments": {}
+                        }
+                      }
+                    }, 
+                    "Companies": {
+                      "Aktion\u00e4r": {}, 
+                      "Gesellschafter": {}
+                    }
+                  }
+                }, 
+                "Name": "The Successwhisperer OG", 
+                "Revenue": "NA", 
+                "URL": "NA", 
+                "Employees": "NA", 
+                "Phone": "NA", 
+                "Link": "http://www.firmenabc.at/the-successwhisperer-og_MlUH", 
+                "Founding date": "2015-11-26", 
+                "Email": "NA", 
+                "Description": "Handel mit verpackten Nahrungsmitteln und Kosmetika ohne Lagerhaltung"
+              }
+            }
+          }
+        }, 
+        "Vorstand": {}, 
+        "Aufsichtsrat": {}
+      }, 
+      "Investments": "NA", 
+      "Stakeholders": {
+        "Persons": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {
+            "Herrn  Brandauer Sieghart": {
+              "Functions": {}, 
+              "Anteil": "100,00\\%", 
+              "Link": "http://www.firmenabc.at/person/brandauer-sieghart_efonid", 
+              "Name": "Herrn  Brandauer Sieghart", 
+              "Investments": {}
+            }
+          }
+        }, 
+        "Companies": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }
+      }
+    }, 
+    "Name": "Tirol Security GmbH", 
+    "Revenue": "0.0", 
+    "URL": "http://www.tirolsecurity.at", 
+    "Employees": "22", 
+    "Phone": "tel:0535844108", 
+    "Location": "Ellmau", 
+    "FirmenbuchURL": "http://www.firmenabc.at/tirol-security-gmbh_mHv", 
+    "Description": "Detekteien- und Schutzdienste. Zum Leistungangebot geh\u00f6ren die Bereiche Objektschutz f\u00fcr Gewerbegeb\u00e4ude, Veranstaltungs- service, Streifendienst in Gemeinde, Geld- und Werttransporte, private Sicherheitskonzepte und Personenschutz.", 
+    "Email": "office@tirolsecurity.at", 
+    "Founding date": "2004-03-11"
+  }, 
+  "25": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Detektei Kovacs", 
+    "Revenue": "NA", 
+    "URL": "http://www.detektei-kovacs.eu", 
+    "Employees": "NA", 
+    "Phone": "tel:06603495220", 
+    "Location": "V\u00f6ls", 
+    "FirmenbuchURL": "http://www.firmenabc.at/detektei-kovacs_OBkG", 
+    "Description": "NA", 
+    "Email": "office@professional-security.at", 
+    "Founding date": "NA"
+  }, 
+  "26": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "\u00d6WD security systems GmbH & Co KG", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/oewd-security-systems-gmbh-cokg_BKh", 
+    "Employees": "NA", 
+    "Phone": "NA", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/oewd-security-systems-gmbh-co-kg_FXde", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "27": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "netvoice data security GmbH", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/netvoice-data-security-gmbh_HEsN", 
+    "Employees": "NA", 
+    "Phone": "tel:050133", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/netvoice-data-security-gmbh_NGPR", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "20": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "e-Sec Information Security Solutions GmbH", 
+    "Revenue": "NA", 
+    "URL": "http://www.e-sec.at", 
+    "Employees": "NA", 
+    "Phone": "tel:0512214037", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/e-sec-information-security-solutions-gmbh_Jukb", 
+    "Description": "NA", 
+    "Email": "office@e-sec.at", 
+    "Founding date": "NA"
+  }, 
+  "21": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "agency security e.U.", 
+    "Revenue": "NA", 
+    "URL": "NA", 
+    "Employees": "1", 
+    "Phone": "NA", 
+    "Location": "Mieders", 
+    "FirmenbuchURL": "http://www.firmenabc.at/agency-security-e-u_IBUu", 
+    "Description": "Sicherheitsgewerbe (Berufsdetektive und Bewachungs-Gewerbe) gem\u00e4\u00df \u00a7 94 Z 62 GewO 1994", 
+    "Email": "NA", 
+    "Founding date": "2012-10-03"
+  }, 
+  "22": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "HP-Security GmbH", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/hp-security-gmbh_BHli", 
+    "Employees": "NA", 
+    "Phone": "tel:0800500824", 
+    "Location": "St. Johann in Tirol", 
+    "FirmenbuchURL": "http://www.firmenabc.at/hp-security-gmbh_FXkA", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "23": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "e-Sec Information Security Solutions GmbH", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/e-sec-information-security-solutions-gmbh_Jukb", 
+    "Employees": "NA", 
+    "Phone": "NA", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/e-sec-information-security-solutions-gmbh_LZoF", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "1": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "\u00d6WD \u00d6sterreichischer Wachdienst security GmbH & Co KG", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/oewd-oesterreichischer-wachdienst-security-gmbh-co-kg_ekK", 
+    "Employees": "NA", 
+    "Phone": "NA", 
+    "Location": "Radfeld", 
+    "FirmenbuchURL": "http://www.firmenabc.at/oewd-oesterreichischer-wachdienst-security-gmbh-co-kg_FXda", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "0": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "\u00d6WD \u00d6sterreichischer Wachdienst security GmbH & Co KG", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/oewd-oesterreichischer-wachdienst-security-gmbh-co-kg_ekK", 
+    "Employees": "NA", 
+    "Phone": "NA", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/oewd-oesterreichischer-wachdienst-security-gmbh-co-kg_FXdV", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "3": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "\u00d6WD \u00d6sterreichischer Wachdienst security GmbH & Co KG", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/oewd-oesterreichischer-wachdienst-security-gmbh-co-kg_ekK", 
+    "Employees": "NA", 
+    "Phone": "NA", 
+    "Location": "Kundl", 
+    "FirmenbuchURL": "http://www.firmenabc.at/oewd-oesterreichischer-wachdienst-security-gmbh-co-kg_NRJC", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "2": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "\u00d6WD \u00d6sterreichischer Wachdienst security GmbH & Co KG", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/oewd-oesterreichischer-wachdienst-security-gmbh-co-kg_ekK", 
+    "Employees": "NA", 
+    "Phone": "tel:0512583363", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/oewd-oesterreichischer-wachdienst-security-gmbh-co-kg_NRJB", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "5": {
+    "Associations": {
+      "Employees": {
+        "Gesch\u00e4ftsf\u00fchrer": {
+          "Herrn Mag. El Attal Daniel": {
+            "Name": "Herrn Mag. El Attal Daniel"
+          }
+        }, 
+        "Vorstand": {}, 
+        "Aufsichtsrat": {}
+      }, 
+      "Investments": "NA", 
+      "Stakeholders": {
+        "Persons": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {
+            "Herrn Mag. El Attal Daniel": {
+              "Name": "Herrn Mag. El Attal Daniel", 
+              "Anteil": "100,00\\%"
+            }
+          }
+        }, 
+        "Companies": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }
+      }
+    }, 
+    "Name": "Sares Security Austria GmbH", 
+    "Revenue": "NA", 
+    "URL": "NA", 
+    "Employees": "2", 
+    "Phone": "NA", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/sares-security-austria-gmbh_Mlwo", 
+    "Description": "T\u00e4tigkeiten im Rahmen des Sicherheitsgewerbes (Berufsdetektiv und Bewacher)", 
+    "Email": "NA", 
+    "Founding date": "2016-01-30"
+  }, 
+  "4": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "\u00d6WD security systems GmbH & Co KG", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/oewd-security-systems-gmbh-cokg_BKh", 
+    "Employees": "NA", 
+    "Phone": "tel:0512585733", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/oewd-security-systems-gmbh-co-kg_NULo", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "7": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "\u00d6WD \u00d6sterreichischer Wachdienst security GmbH & Co KG", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/oewd-oesterreichischer-wachdienst-security-gmbh-co-kg_ekK", 
+    "Employees": "NA", 
+    "Phone": "NA", 
+    "Location": "Kundl", 
+    "FirmenbuchURL": "http://www.firmenabc.at/oewd-oesterreichischer-wachdienst-security-gmbh-co-kg_FXdT", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "6": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Markus Meier", 
+    "Revenue": "0.0", 
+    "URL": "http://www.stm-security.at", 
+    "Employees": "1", 
+    "Phone": "NA", 
+    "Location": "Volders", 
+    "FirmenbuchURL": "http://www.firmenabc.at/markus-meier_MitJ", 
+    "Description": "Beratung, Planung und Montage von Alarmanlagen, Zutrittskontrollen, ISDN-Telefonie und Video\u00fcberwachung - freie Bezeichnung \"STM-Security\".", 
+    "Email": "markus.meier@stm-security.at", 
+    "Founding date": "1998-03-25"
+  }, 
+  "9": {
+    "Associations": {
+      "Employees": {
+        "Gesch\u00e4ftsf\u00fchrer": {
+          "Herrn  Schuhb\\xf6ck Bernhard": {
+            "Name": "Herrn  Schuhb\\xf6ck Bernhard"
+          }
+        }, 
+        "Vorstand": {}, 
+        "Aufsichtsrat": {}
+      }, 
+      "Investments": "NA", 
+      "Stakeholders": {
+        "Persons": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {
+            "Herrn  Schuhb\\xf6ck Bernhard": {
+              "Name": "Herrn  Schuhb\\xf6ck Bernhard", 
+              "Anteil": "80,00\\%"
+            }, 
+            "Frau  Schuhb\\xf6ck Erika": {
+              "Name": "Frau  Schuhb\\xf6ck Erika", 
+              "Anteil": "20,00\\%"
+            }
+          }
+        }, 
+        "Companies": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }
+      }
+    }, 
+    "Name": "DEFON GmbH", 
+    "Revenue": "0.0", 
+    "URL": "http://www.defon.at", 
+    "Employees": "6", 
+    "Phone": "tel:0524262 61 40", 
+    "Location": "Schwaz", 
+    "FirmenbuchURL": "http://www.firmenabc.at/defon-gmbh_Cohv", 
+    "Description": "Sicherheits- und Bewachungsunternehmen Event-, Versicherungs- und Werbeagentur Gastgewerbe Handels-, K\u00fcnstlervermittlungs- und Marketingunternehmen.", 
+    "Email": "office@defon.at", 
+    "Founding date": "2014-10-22"
+  }, 
+  "8": {
+    "Associations": {
+      "Employees": {
+        "Gesch\u00e4ftsf\u00fchrer": {
+          "Herrn Ing. Herbert Clemens": {
+            "Functions": {}, 
+            "Link": "http://www.firmenabc.at/person/herbert-clemens_eftbon", 
+            "Name": "Herrn Ing. Herbert Clemens", 
+            "Investments": {}
+          }, 
+          "Frau  Mahler Julia": {
+            "Functions": {}, 
+            "Link": "http://www.firmenabc.at/person/mahler-julia_efudts", 
+            "Name": "Frau  Mahler Julia", 
+            "Investments": {
+              "netvoice Vertrieb OG": {
+                "Associations": {
+                  "Employees": "NA", 
+                  "Investments": "NA", 
+                  "Stakeholders": {
+                    "Persons": {
+                      "Aktion\u00e4r": {}, 
+                      "Gesellschafter": {
+                        "Herrn Ing. Herbert Clemens": {
+                          "Functions": {}, 
+                          "Link": "http://www.firmenabc.at/person/herbert-clemens_eftbon", 
+                          "Name": "Herrn Ing. Herbert Clemens", 
+                          "Investments": {
+                            "MAUENBERT OG": {
+                              "Link": "http://www.firmenabc.at/mauenbert-og_HBau", 
+                              "Name": "MAUENBERT OG"
+                            }, 
+                            "IHAB OG": {
+                              "Link": "http://www.firmenabc.at/ihab-og_JeQg", 
+                              "Name": "IHAB OG"
+                            }
+                          }
+                        }, 
+                        "Frau  Mahler Julia": {
+                          "Functions": {}, 
+                          "Link": "http://www.firmenabc.at/person/mahler-julia_efudts", 
+                          "Name": "Frau  Mahler Julia", 
+                          "Investments": {}
+                        }
+                      }
+                    }, 
+                    "Companies": {
+                      "Aktion\u00e4r": {}, 
+                      "Gesellschafter": {}
+                    }
+                  }
+                }, 
+                "Name": "netvoice Vertrieb OG", 
+                "Revenue": "NA", 
+                "URL": "NA", 
+                "Employees": "NA", 
+                "Phone": "NA", 
+                "Link": "http://www.firmenabc.at/netvoice-vertrieb-og_FECD", 
+                "Founding date": "2009-08-17", 
+                "Email": "NA", 
+                "Description": "Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik"
+              }
+            }
+          }
+        }, 
+        "Vorstand": {}, 
+        "Aufsichtsrat": {}
+      }, 
+      "Investments": "NA", 
+      "Stakeholders": {
+        "Persons": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {
+            "Herrn Ing. Herbert Clemens": {
+              "Functions": {}, 
+              "Anteil": "50,00\\%", 
+              "Link": "http://www.firmenabc.at/person/herbert-clemens_eftbon", 
+              "Name": "Herrn Ing. Herbert Clemens", 
+              "Investments": {}
+            }, 
+            "Frau  Mahler Julia": {
+              "Functions": {}, 
+              "Anteil": "50,00\\%", 
+              "Link": "http://www.firmenabc.at/person/mahler-julia_efudts", 
+              "Name": "Frau  Mahler Julia", 
+              "Investments": {}
+            }
+          }
+        }, 
+        "Companies": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }
+      }
+    }, 
+    "Name": "NETVOICE DATA SECURITY GMBH", 
+    "Revenue": "0.0", 
+    "URL": "http://www.netvoice.cc", 
+    "Employees": "2", 
+    "Phone": "tel:050133", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/netvoice-data-security-gmbh_HEsN", 
+    "Description": "EDV-Dienstleistungen.", 
+    "Email": "info@netvoice.cc", 
+    "Founding date": "2011-08-24"
+  }, 
+  "11": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "SBSA Security e.U.", 
+    "Revenue": "NA", 
+    "URL": "NA", 
+    "Employees": "1", 
+    "Phone": "NA", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/sbsa-security-e-u_MBAz", 
+    "Description": "Sicherheitsunternehmen", 
+    "Email": "NA", 
+    "Founding date": "2015-05-21"
+  }, 
+  "10": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "SBSA Security e.U.", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/sbsa-security-e-u_MBAz", 
+    "Employees": "NA", 
+    "Phone": "NA", 
+    "Location": "Kufstein", 
+    "FirmenbuchURL": "http://www.firmenabc.at/sbsa-security-e-u_NEQB", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "13": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "SBSA Security e.U.", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/sbsa-security-e-u_MBAz", 
+    "Employees": "NA", 
+    "Phone": "NA", 
+    "Location": "W\u00f6rgl", 
+    "FirmenbuchURL": "http://www.firmenabc.at/sbsa-security-e-u_NEQC", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "12": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "SBSA Security e.U.", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/sbsa-security-e-u_MBAz", 
+    "Employees": "NA", 
+    "Phone": "NA", 
+    "Location": "St. Johann in Tirol", 
+    "FirmenbuchURL": "http://www.firmenabc.at/sbsa-security-e-u_NEQD", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "15": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Tyco Integrated Fire & Security Austria GmbH", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/tyco-fire-integrated-solutions-gmbh_mSX", 
+    "Employees": "NA", 
+    "Phone": "NA", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/tyco-integrated-fire-security-austria-gmbh_FLGQ", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "14": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "Tyco Integrated Fire & Security Austria GmbH", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/tyco-fire-integrated-solutions-gmbh_mSX", 
+    "Employees": "NA", 
+    "Phone": "tel:057474", 
+    "Location": "Mils", 
+    "FirmenbuchURL": "http://www.firmenabc.at/tyco-integrated-fire-security-austria-gmbh_NFJd", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "17": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "BR-SECURITY Transportbegleitung ", 
+    "Revenue": "NA", 
+    "URL": "http://www.BR-Security.at", 
+    "Employees": "NA", 
+    "Phone": "tel:066430 44 198", 
+    "Location": "Landeck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/br-security-transportbegleitung_IdoR", 
+    "Description": "NA", 
+    "Email": "Boris-Radulovsk@hotmail.com", 
+    "Founding date": "NA"
+  }, 
+  "16": {
+    "Associations": {
+      "Employees": {
+        "Gesch\u00e4ftsf\u00fchrer": {
+          "Herrn  Wolf Josef": {
+            "Name": "Herrn  Wolf Josef"
+          }, 
+          "Frau  Wolf Cornelia": {
+            "Name": "Frau  Wolf Cornelia"
+          }
+        }, 
+        "Vorstand": {}, 
+        "Aufsichtsrat": {}
+      }, 
+      "Investments": "NA", 
+      "Stakeholders": {
+        "Persons": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }, 
+        "Companies": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }
+      }
+    }, 
+    "Name": "CWS-Security GmbH", 
+    "Revenue": "0.0", 
+    "URL": "NA", 
+    "Employees": "10", 
+    "Phone": "NA", 
+    "Location": "Strass im Zillertal", 
+    "FirmenbuchURL": "http://www.firmenabc.at/cws-security-gmbh_GVck", 
+    "Description": "Sicherheits- und Ordnungsdienste.", 
+    "Email": "NA", 
+    "Founding date": "2010-10-29"
+  }, 
+  "19": {
+    "Associations": {
+      "Employees": "NA", 
+      "Investments": "NA", 
+      "Stakeholders": "NA"
+    }, 
+    "Name": "G4S Security Systems GmbH", 
+    "Revenue": "NA", 
+    "URL": "http://www.firmenabc.at/g-s-security-systems-gmbh_lSy", 
+    "Employees": "NA", 
+    "Phone": "tel:0512266156", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/g-s-security-systems-gmbh_FXGu", 
+    "Description": "NA", 
+    "Email": "NA", 
+    "Founding date": "NA"
+  }, 
+  "18": {
+    "Associations": {
+      "Employees": {
+        "Gesch\u00e4ftsf\u00fchrer": {
+          "Herrn  Groder Martin Anton": {
+            "Functions": {}, 
+            "Link": "http://www.firmenabc.at/person/groder-martin-anton_efojcd", 
+            "Name": "Herrn  Groder Martin Anton", 
+            "Investments": {
+              "Rox Company GmbH": {
+                "Associations": {
+                  "Employees": {
+                    "Gesch\u00e4ftsf\u00fchrer": {
+                      "Herrn Mag. Pammer Michael": {
+                        "Name": "Herrn Mag. Pammer Michael"
+                      }, 
+                      "Herrn  Groder Martin Anton": {
+                        "Functions": {}, 
+                        "Link": "http://www.firmenabc.at/person/groder-martin-anton_efojcd", 
+                        "Name": "Herrn  Groder Martin Anton", 
+                        "Investments": {}
+                      }
+                    }, 
+                    "Vorstand": {}, 
+                    "Aufsichtsrat": {}
+                  }, 
+                  "Investments": "NA", 
+                  "Stakeholders": {
+                    "Persons": {
+                      "Aktion\u00e4r": {}, 
+                      "Gesellschafter": {
+                        "Frau  Haas Adelheid": {
+                          "Name": "Frau  Haas Adelheid", 
+                          "Anteil": "10,00\\%"
+                        }, 
+                        "Herrn Mag. Pammer Michael": {
+                          "Name": "Herrn Mag. Pammer Michael", 
+                          "Anteil": "20,00\\%"
+                        }, 
+                        "Herrn  Groder Martin Anton": {
+                          "Functions": {}, 
+                          "Anteil": "70,00\\%", 
+                          "Link": "http://www.firmenabc.at/person/groder-martin-anton_efojcd", 
+                          "Name": "Herrn  Groder Martin Anton", 
+                          "Investments": {}
+                        }
+                      }
+                    }, 
+                    "Companies": {
+                      "Aktion\u00e4r": {}, 
+                      "Gesellschafter": {}
+                    }
+                  }
+                }, 
+                "Name": "Rox Company GmbH", 
+                "Revenue": "350000000.0", 
+                "URL": "http://www.roxenergy.com", 
+                "Employees": "4", 
+                "Phone": "tel:05123937370", 
+                "Link": "http://www.firmenabc.at/rox-company-gmbh_DWUC", 
+                "Founding date": "2007-09-27", 
+                "Email": "office@roxenergy.com", 
+                "Description": "Produktion und Vermarktung von Getr\u00e4nken, insbesondere des ROX-Energiedrinks. Exporte erfolgen weltweit \u00fcber Vertriebspartner."
+              }
+            }
+          }
+        }, 
+        "Vorstand": {}, 
+        "Aufsichtsrat": {}
+      }, 
+      "Investments": "NA", 
+      "Stakeholders": {
+        "Persons": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {
+            "Frau  Groder Adelheid": {
+              "Name": "Frau  Groder Adelheid", 
+              "Anteil": "20,00\\%"
+            }, 
+            "Herrn  Groder Martin Anton": {
+              "Functions": {}, 
+              "Anteil": "80,00\\%", 
+              "Link": "http://www.firmenabc.at/person/groder-martin-anton_efojcd", 
+              "Name": "Herrn  Groder Martin Anton", 
+              "Investments": {}
+            }
+          }
+        }, 
+        "Companies": {
+          "Aktion\u00e4r": {}, 
+          "Gesellschafter": {}
+        }
+      }
+    }, 
+    "Name": "VGM-Security Network GmbH", 
+    "Revenue": "104000000.0", 
+    "URL": "http://www.vgm-security.com", 
+    "Employees": "50", 
+    "Phone": "tel:0512890030", 
+    "Location": "Innsbruck", 
+    "FirmenbuchURL": "http://www.firmenabc.at/vgm-security-network-gmbh_EOOq", 
+    "Description": "Bewachungs- und Detektivgewerbe. Veranstaltungsschutz, Werkschutz, Aufzugs- und Personenbefreiung, Portier- und Rezeptionsdienst, Schl\u00fcsselverwahrung. Fuhrpark: 1 Pkw", 
+    "Email": "office@vgm-security.com", 
+    "Founding date": "2008-09-24"
+  }
+}
